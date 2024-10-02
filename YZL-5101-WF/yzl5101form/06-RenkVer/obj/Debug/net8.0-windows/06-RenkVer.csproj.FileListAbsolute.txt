@@ -1,0 +1,17 @@
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\06-RenkVer\bin\Debug\net8.0-windows\06-RenkVer.exe
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\06-RenkVer\bin\Debug\net8.0-windows\06-RenkVer.deps.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\06-RenkVer\bin\Debug\net8.0-windows\06-RenkVer.runtimeconfig.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\06-RenkVer\bin\Debug\net8.0-windows\06-RenkVer.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\06-RenkVer\bin\Debug\net8.0-windows\06-RenkVer.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\06-RenkVer\obj\Debug\net8.0-windows\_06_RenkVer.Form1.resources
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\06-RenkVer\obj\Debug\net8.0-windows\_06_RenkVer.Form2.resources
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\06-RenkVer\obj\Debug\net8.0-windows\06-RenkVer.csproj.GenerateResource.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\06-RenkVer\obj\Debug\net8.0-windows\06-RenkVer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\06-RenkVer\obj\Debug\net8.0-windows\06-RenkVer.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\06-RenkVer\obj\Debug\net8.0-windows\06-RenkVer.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\06-RenkVer\obj\Debug\net8.0-windows\06-RenkVer.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\06-RenkVer\obj\Debug\net8.0-windows\06-RenkVer.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\06-RenkVer\obj\Debug\net8.0-windows\refint\06-RenkVer.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\06-RenkVer\obj\Debug\net8.0-windows\06-RenkVer.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\06-RenkVer\obj\Debug\net8.0-windows\06-RenkVer.genruntimeconfig.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\06-RenkVer\obj\Debug\net8.0-windows\ref\06-RenkVer.dll

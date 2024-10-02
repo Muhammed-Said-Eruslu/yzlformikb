@@ -1,0 +1,17 @@
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\05-FormlarArasıGeçiş\bin\Debug\net8.0-windows\05-FormlarArasıGeçiş.exe
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\05-FormlarArasıGeçiş\bin\Debug\net8.0-windows\05-FormlarArasıGeçiş.deps.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\05-FormlarArasıGeçiş\bin\Debug\net8.0-windows\05-FormlarArasıGeçiş.runtimeconfig.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\05-FormlarArasıGeçiş\bin\Debug\net8.0-windows\05-FormlarArasıGeçiş.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\05-FormlarArasıGeçiş\bin\Debug\net8.0-windows\05-FormlarArasıGeçiş.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\05-FormlarArasıGeçiş\obj\Debug\net8.0-windows\_05_FormlarArasıGeçiş.Form1.resources
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\05-FormlarArasıGeçiş\obj\Debug\net8.0-windows\_05_FormlarArasıGeçiş.Form2.resources
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\05-FormlarArasıGeçiş\obj\Debug\net8.0-windows\05-FormlarArasıGeçiş.csproj.GenerateResource.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\05-FormlarArasıGeçiş\obj\Debug\net8.0-windows\05-FormlarArasıGeçiş.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\05-FormlarArasıGeçiş\obj\Debug\net8.0-windows\05-FormlarArasıGeçiş.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\05-FormlarArasıGeçiş\obj\Debug\net8.0-windows\05-FormlarArasıGeçiş.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\05-FormlarArasıGeçiş\obj\Debug\net8.0-windows\05-FormlarArasıGeçiş.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\05-FormlarArasıGeçiş\obj\Debug\net8.0-windows\05-FormlarArasıGeçiş.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\05-FormlarArasıGeçiş\obj\Debug\net8.0-windows\refint\05-FormlarArasıGeçiş.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\05-FormlarArasıGeçiş\obj\Debug\net8.0-windows\05-FormlarArasıGeçiş.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\05-FormlarArasıGeçiş\obj\Debug\net8.0-windows\05-FormlarArasıGeçiş.genruntimeconfig.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\05-FormlarArasıGeçiş\obj\Debug\net8.0-windows\ref\05-FormlarArasıGeçiş.dll

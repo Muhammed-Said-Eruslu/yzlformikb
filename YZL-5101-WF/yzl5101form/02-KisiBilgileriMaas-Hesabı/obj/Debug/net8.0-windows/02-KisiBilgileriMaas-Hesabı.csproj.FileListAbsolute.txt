@@ -1,0 +1,16 @@
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\02-KisiBilgileriMaas-Hesabı\bin\Debug\net8.0-windows\02-KisiBilgileriMaas-Hesabı.exe
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\02-KisiBilgileriMaas-Hesabı\bin\Debug\net8.0-windows\02-KisiBilgileriMaas-Hesabı.deps.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\02-KisiBilgileriMaas-Hesabı\bin\Debug\net8.0-windows\02-KisiBilgileriMaas-Hesabı.runtimeconfig.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\02-KisiBilgileriMaas-Hesabı\bin\Debug\net8.0-windows\02-KisiBilgileriMaas-Hesabı.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\02-KisiBilgileriMaas-Hesabı\bin\Debug\net8.0-windows\02-KisiBilgileriMaas-Hesabı.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\02-KisiBilgileriMaas-Hesabı\obj\Debug\net8.0-windows\_02_KisiBilgileriMaas_Hesabı.Form1.resources
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\02-KisiBilgileriMaas-Hesabı\obj\Debug\net8.0-windows\02-KisiBilgileriMaas-Hesabı.csproj.GenerateResource.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\02-KisiBilgileriMaas-Hesabı\obj\Debug\net8.0-windows\02-KisiBilgileriMaas-Hesabı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\02-KisiBilgileriMaas-Hesabı\obj\Debug\net8.0-windows\02-KisiBilgileriMaas-Hesabı.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\02-KisiBilgileriMaas-Hesabı\obj\Debug\net8.0-windows\02-KisiBilgileriMaas-Hesabı.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\02-KisiBilgileriMaas-Hesabı\obj\Debug\net8.0-windows\02-KisiBilgileriMaas-Hesabı.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\02-KisiBilgileriMaas-Hesabı\obj\Debug\net8.0-windows\02-KisiBilgileriMaas-Hesabı.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\02-KisiBilgileriMaas-Hesabı\obj\Debug\net8.0-windows\refint\02-KisiBilgileriMaas-Hesabı.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\02-KisiBilgileriMaas-Hesabı\obj\Debug\net8.0-windows\02-KisiBilgileriMaas-Hesabı.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\02-KisiBilgileriMaas-Hesabı\obj\Debug\net8.0-windows\02-KisiBilgileriMaas-Hesabı.genruntimeconfig.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\02-KisiBilgileriMaas-Hesabı\obj\Debug\net8.0-windows\ref\02-KisiBilgileriMaas-Hesabı.dll

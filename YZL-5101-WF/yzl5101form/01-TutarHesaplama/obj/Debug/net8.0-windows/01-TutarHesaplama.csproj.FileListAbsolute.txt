@@ -1,0 +1,16 @@
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\01-TutarHesaplama\bin\Debug\net8.0-windows\01-TutarHesaplama.exe
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\01-TutarHesaplama\bin\Debug\net8.0-windows\01-TutarHesaplama.deps.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\01-TutarHesaplama\bin\Debug\net8.0-windows\01-TutarHesaplama.runtimeconfig.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\01-TutarHesaplama\bin\Debug\net8.0-windows\01-TutarHesaplama.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\01-TutarHesaplama\bin\Debug\net8.0-windows\01-TutarHesaplama.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\01-TutarHesaplama\obj\Debug\net8.0-windows\_01_TutarHesaplama.Form1.resources
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\01-TutarHesaplama\obj\Debug\net8.0-windows\01-TutarHesaplama.csproj.GenerateResource.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\01-TutarHesaplama\obj\Debug\net8.0-windows\01-TutarHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\01-TutarHesaplama\obj\Debug\net8.0-windows\01-TutarHesaplama.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\01-TutarHesaplama\obj\Debug\net8.0-windows\01-TutarHesaplama.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\01-TutarHesaplama\obj\Debug\net8.0-windows\01-TutarHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\01-TutarHesaplama\obj\Debug\net8.0-windows\01-TutarHesaplama.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\01-TutarHesaplama\obj\Debug\net8.0-windows\refint\01-TutarHesaplama.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\01-TutarHesaplama\obj\Debug\net8.0-windows\01-TutarHesaplama.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\01-TutarHesaplama\obj\Debug\net8.0-windows\01-TutarHesaplama.genruntimeconfig.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\01-TutarHesaplama\obj\Debug\net8.0-windows\ref\01-TutarHesaplama.dll

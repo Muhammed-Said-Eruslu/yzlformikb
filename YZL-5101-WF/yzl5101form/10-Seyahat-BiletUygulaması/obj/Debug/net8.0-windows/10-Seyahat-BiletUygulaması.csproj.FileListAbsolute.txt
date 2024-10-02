@@ -1,0 +1,16 @@
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\10-Seyahat-BiletUygulaması\bin\Debug\net8.0-windows\10-Seyahat-BiletUygulaması.exe
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\10-Seyahat-BiletUygulaması\bin\Debug\net8.0-windows\10-Seyahat-BiletUygulaması.deps.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\10-Seyahat-BiletUygulaması\bin\Debug\net8.0-windows\10-Seyahat-BiletUygulaması.runtimeconfig.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\10-Seyahat-BiletUygulaması\bin\Debug\net8.0-windows\10-Seyahat-BiletUygulaması.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\10-Seyahat-BiletUygulaması\bin\Debug\net8.0-windows\10-Seyahat-BiletUygulaması.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\10-Seyahat-BiletUygulaması\obj\Debug\net8.0-windows\_10_Seyahat_BiletUygulaması.Form1.resources
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\10-Seyahat-BiletUygulaması\obj\Debug\net8.0-windows\10-Seyahat-BiletUygulaması.csproj.GenerateResource.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\10-Seyahat-BiletUygulaması\obj\Debug\net8.0-windows\10-Seyahat-BiletUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\10-Seyahat-BiletUygulaması\obj\Debug\net8.0-windows\10-Seyahat-BiletUygulaması.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\10-Seyahat-BiletUygulaması\obj\Debug\net8.0-windows\10-Seyahat-BiletUygulaması.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\10-Seyahat-BiletUygulaması\obj\Debug\net8.0-windows\10-Seyahat-BiletUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\10-Seyahat-BiletUygulaması\obj\Debug\net8.0-windows\10-Seyahat-BiletUygulaması.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\10-Seyahat-BiletUygulaması\obj\Debug\net8.0-windows\refint\10-Seyahat-BiletUygulaması.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\10-Seyahat-BiletUygulaması\obj\Debug\net8.0-windows\10-Seyahat-BiletUygulaması.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\10-Seyahat-BiletUygulaması\obj\Debug\net8.0-windows\10-Seyahat-BiletUygulaması.genruntimeconfig.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\10-Seyahat-BiletUygulaması\obj\Debug\net8.0-windows\ref\10-Seyahat-BiletUygulaması.dll

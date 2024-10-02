@@ -1,0 +1,16 @@
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\09-SifreBelirleme\bin\Debug\net8.0-windows\09-SifreBelirleme.exe
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\09-SifreBelirleme\bin\Debug\net8.0-windows\09-SifreBelirleme.deps.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\09-SifreBelirleme\bin\Debug\net8.0-windows\09-SifreBelirleme.runtimeconfig.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\09-SifreBelirleme\bin\Debug\net8.0-windows\09-SifreBelirleme.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\09-SifreBelirleme\bin\Debug\net8.0-windows\09-SifreBelirleme.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\09-SifreBelirleme\obj\Debug\net8.0-windows\_09_SifreBelirleme.Form1.resources
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\09-SifreBelirleme\obj\Debug\net8.0-windows\09-SifreBelirleme.csproj.GenerateResource.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\09-SifreBelirleme\obj\Debug\net8.0-windows\09-SifreBelirleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\09-SifreBelirleme\obj\Debug\net8.0-windows\09-SifreBelirleme.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\09-SifreBelirleme\obj\Debug\net8.0-windows\09-SifreBelirleme.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\09-SifreBelirleme\obj\Debug\net8.0-windows\09-SifreBelirleme.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\09-SifreBelirleme\obj\Debug\net8.0-windows\09-SifreBelirleme.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\09-SifreBelirleme\obj\Debug\net8.0-windows\refint\09-SifreBelirleme.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\09-SifreBelirleme\obj\Debug\net8.0-windows\09-SifreBelirleme.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\09-SifreBelirleme\obj\Debug\net8.0-windows\09-SifreBelirleme.genruntimeconfig.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101-WF\yzl5101form\09-SifreBelirleme\obj\Debug\net8.0-windows\ref\09-SifreBelirleme.dll
